@@ -1,0 +1,9 @@
+# Mac system files
+.DS_Store
+
+# Secrets: never commit these
+.env
+.env.*
+
+# Vercel CLI link folder
+.vercel
